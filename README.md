@@ -1,4 +1,8 @@
 ### Hola a todos 👋
+### Mi nombre es Mayra Ñaupari
+### Estudio en la Escuela Politécnica Nacional
+### Pertenezco a la carrera de Tecnología Superior en Desarrollo de Softaware
+
 
 <!--
 **maypam22/maypam22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
