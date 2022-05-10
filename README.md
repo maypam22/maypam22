@@ -1,7 +1,7 @@
 ### Hola a todos 👋
 ### Mi nombre es Mayra Ñaupari
 ### Estudio en la Escuela Politécnica Nacional
-### Pertenezco a la carrera de Tecnología Superior en Desarrollo de Softaware
+### Pertenezco a la carrera de Tecnología Superior en Desarrollo de Software
 
 
 <!--
